@@ -1,6 +1,7 @@
 const request = require("request");
 const cheerio = require("cheerio");
 const xlsx = require("xlsx");
+const exceljs = require("exceljs");
 
 request(
   "https://www.espncricinfo.com/series/ipl-2020-21-1210595/match-results",
@@ -120,14 +121,15 @@ function subMatchCallback(idx, matchId, err, res, html) {
   //   console.log(matchesTable);
   // }
   // console.log(cnt);
+
   const uploadIntoExcel = () => {
     let titleOfSheet = `${"match" + "_" + matchId + " - " + cnt}`;
     const workSheet = xlsx.utils.json_to_sheet(tablesObject);
-    const workBook = xlsx.utils.book_new();
+    // const workBook = xlsx.utils.book_new();
     xlsx.utils.book_append_sheet(workBook, workSheet, titleOfSheet);
     // Generate buffer
     xlsx.write(workBook, { bookType: "xlsx", type: "buffer" });
     xlsx.writeFile(workBook, "cricInfo_IPL_seriesData.xlsx");
   };
-  uploadIntoExcel();
+  // uploadIntoExcel();
 }
