@@ -1,0 +1,811 @@
+[
+  {
+    "topicUrl": "https://www.github.com/topics/npm",
+    "repos": [
+      {
+        "repoUrl": "https://www.github.com/goldbergyoni/nodebestpractices",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/goldbergyoni/nodebestpractices/issues/1074",
+            "issueName": "Add a hint to nodejs-integration-test-best-practices in separateexpress.md"
+          },
+          {
+            "issueUrl": "https://www.github.com/goldbergyoni/nodebestpractices/issues/1069",
+            "issueName": "German translation"
+          },
+          {
+            "issueUrl": "https://www.github.com/goldbergyoni/nodebestpractices/issues/1043",
+            "issueName": "[Suggestion] extend 3.6 with upper snake case convention for global constants"
+          },
+          {
+            "issueUrl": "https://www.github.com/goldbergyoni/nodebestpractices/issues/1030",
+            "issueName": "security/bcryptpassword.md missing"
+          },
+          {
+            "issueUrl": "https://www.github.com/goldbergyoni/nodebestpractices/issues/1022",
+            "issueName": "I add some Chinese translation "
+          },
+          {
+            "issueUrl": "https://www.github.com/goldbergyoni/nodebestpractices/issues/1020",
+            "issueName": "Dutch translation"
+          },
+          {
+            "issueUrl": "https://www.github.com/goldbergyoni/nodebestpractices/issues/1014",
+            "issueName": "Prefer cross-platform API when possible"
+          },
+          {
+            "issueUrl": "https://www.github.com/goldbergyoni/nodebestpractices/issues/996",
+            "issueName": "Add Nick as collaborator"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/meteor/meteor",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/meteor/meteor/issues/11619",
+            "issueName": "Minifier is removing unused function args in production run"
+          },
+          {
+            "issueUrl": "https://www.github.com/meteor/meteor/issues/11617",
+            "issueName": "module.exportDefault is not a function"
+          },
+          {
+            "issueUrl": "https://www.github.com/meteor/meteor/issues/11586",
+            "issueName": "Crash in react-fast-refresh when updating to babel 7.15"
+          },
+          {
+            "issueUrl": "https://www.github.com/meteor/meteor/issues/11578",
+            "issueName": "Slow oplog tailing on ATLAS (reactivated issue)"
+          },
+          {
+            "issueUrl": "https://www.github.com/meteor/meteor/issues/11562",
+            "issueName": "Unhandled Promise Rejection in dynamic-import package"
+          },
+          {
+            "issueUrl": "https://www.github.com/meteor/meteor/issues/11555",
+            "issueName": "App.launchScreens() is not working for iOS in Meteor 2.2"
+          },
+          {
+            "issueUrl": "https://www.github.com/meteor/meteor/issues/11540",
+            "issueName": "Repeated changes to files aren't detected under 2.3.2"
+          },
+          {
+            "issueUrl": "https://www.github.com/meteor/meteor/issues/11539",
+            "issueName": "Usage of async_hooks / AsyncLocalStorage conflicts with Meteor 2.3+ / Node 14"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/yarnpkg/yarn",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/yarnpkg/yarn/issues/8689",
+            "issueName": "Slow yarn install using AWS EFS"
+          },
+          {
+            "issueUrl": "https://www.github.com/yarnpkg/yarn/issues/8688",
+            "issueName": "workspaces installing more versions than expected"
+          },
+          {
+            "issueUrl": "https://www.github.com/yarnpkg/yarn/issues/8687",
+            "issueName": "Fetching packages: segmentation error"
+          },
+          {
+            "issueUrl": "https://www.github.com/yarnpkg/yarn/issues/8686",
+            "issueName": "Various issues while \"yarn install\""
+          },
+          {
+            "issueUrl": "https://www.github.com/yarnpkg/yarn/issues/8684",
+            "issueName": "yarn install --immutable [perhaps] should not create yarn.lock from scratch"
+          },
+          {
+            "issueUrl": "https://www.github.com/yarnpkg/yarn/issues/8682",
+            "issueName": "Not possible to have a reproducible build with yarn"
+          },
+          {
+            "issueUrl": "https://www.github.com/yarnpkg/yarn/issues/8677",
+            "issueName": "[Website] Latest version is incorrect"
+          },
+          {
+            "issueUrl": "https://www.github.com/yarnpkg/yarn/issues/8676",
+            "issueName": "yarn adds the specified url package with an error"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/lerna/lerna",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/lerna/lerna/issues/2992",
+            "issueName": "Canary release with a monorepo containing apps and packages"
+          },
+          {
+            "issueUrl": "https://www.github.com/lerna/lerna/issues/2991",
+            "issueName": "CHANGELOG genetared with all commits from the last release"
+          },
+          {
+            "issueUrl": "https://www.github.com/lerna/lerna/issues/2989",
+            "issueName": "Add support to --resume when failing at a given package/module"
+          },
+          {
+            "issueUrl": "https://www.github.com/lerna/lerna/issues/2988",
+            "issueName": "Installing a new package without bootstrapping the complete project?"
+          },
+          {
+            "issueUrl": "https://www.github.com/lerna/lerna/issues/2987",
+            "issueName": "Update deps of run-lifecycle package"
+          },
+          {
+            "issueUrl": "https://www.github.com/lerna/lerna/issues/2984",
+            "issueName": "lerna run --scope <package-name> <command> vs yarn workspace <package-name> <command>"
+          },
+          {
+            "issueUrl": "https://www.github.com/lerna/lerna/issues/2983",
+            "issueName": "feature: ability to disable CHANGELOG.md in favor of GH release"
+          },
+          {
+            "issueUrl": "https://www.github.com/lerna/lerna/issues/2980",
+            "issueName": "lerna create <pkg> [loc], can use relative path to create package or warn right format"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/pnpm/pnpm",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/pnpm/pnpm/issues/3771",
+            "issueName": "feature request: support completions for powershell"
+          },
+          {
+            "issueUrl": "https://www.github.com/pnpm/pnpm/issues/3770",
+            "issueName": "PNPM standalone script fails with latest Powershell"
+          },
+          {
+            "issueUrl": "https://www.github.com/pnpm/pnpm/issues/3769",
+            "issueName": "Disarm the pnpm env use footgun"
+          },
+          {
+            "issueUrl": "https://www.github.com/pnpm/pnpm/issues/3763",
+            "issueName": "If package.json#bin points to path that doesn't exist, pnpm install errors"
+          },
+          {
+            "issueUrl": "https://www.github.com/pnpm/pnpm/issues/3761",
+            "issueName": "A bunch of warnings, the dependency analyzer is not working properly"
+          },
+          {
+            "issueUrl": "https://www.github.com/pnpm/pnpm/issues/3760",
+            "issueName": "Preinstall script runs after installing dependencies"
+          },
+          {
+            "issueUrl": "https://www.github.com/pnpm/pnpm/issues/3759",
+            "issueName": "Warn before doing a full reinstall of all dependencies"
+          },
+          {
+            "issueUrl": "https://www.github.com/pnpm/pnpm/issues/3758",
+            "issueName": "Can pnpm install provide how long the installation takes"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/verdaccio/verdaccio",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/verdaccio/verdaccio/issues/2438",
+            "issueName": "Getting \"error: bad uplink status code: 401\" with GitHub packages."
+          },
+          {
+            "issueUrl": "https://www.github.com/verdaccio/verdaccio/issues/2311",
+            "issueName": "No packages loaded for Verdaccio 5.1.0 hosted on IIS over HTTPS"
+          },
+          {
+            "issueUrl": "https://www.github.com/verdaccio/verdaccio/issues/2300",
+            "issueName": "Logger deprecation warning - documentation update needed"
+          },
+          {
+            "issueUrl": "https://www.github.com/verdaccio/verdaccio/issues/2275",
+            "issueName": "cross-domain issue"
+          },
+          {
+            "issueUrl": "https://www.github.com/verdaccio/verdaccio/issues/2234",
+            "issueName": "Verdaccio not working as expected after path mapping in a GCE Ingress controller"
+          },
+          {
+            "issueUrl": "https://www.github.com/verdaccio/verdaccio/issues/2233",
+            "issueName": "docker-examples v4/5 reverse_proxy won't build on Windows"
+          },
+          {
+            "issueUrl": "https://www.github.com/verdaccio/verdaccio/issues/2220",
+            "issueName": "local-storage leaks cached uplinked packages via search"
+          },
+          {
+            "issueUrl": "https://www.github.com/verdaccio/verdaccio/issues/2210",
+            "issueName": "Configure Pino.js to work with pm2"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/formium/tsdx",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/formium/tsdx/issues/1075",
+            "issueName": "Failed to compiler the web worker by using 'rollup-plugin-web-worker-loader'"
+          },
+          {
+            "issueUrl": "https://www.github.com/formium/tsdx/issues/1073",
+            "issueName": "Add support for react-jsx in tsconfig.json compilerOptions"
+          },
+          {
+            "issueUrl": "https://www.github.com/formium/tsdx/issues/1071",
+            "issueName": "Strict-mode does not allow assignment to undefined variables"
+          },
+          {
+            "issueUrl": "https://www.github.com/formium/tsdx/issues/1068",
+            "issueName": "Question: Why is jest a dependency and not a dev dependency?"
+          },
+          {
+            "issueUrl": "https://www.github.com/formium/tsdx/issues/1067",
+            "issueName": "ESLint dependency tree failing on build with eslint-config-tsdx"
+          },
+          {
+            "issueUrl": "https://www.github.com/formium/tsdx/issues/1066",
+            "issueName": "yarn test Refference Error"
+          },
+          {
+            "issueUrl": "https://www.github.com/formium/tsdx/issues/1065",
+            "issueName": "Is TSDX still maintained?"
+          },
+          {
+            "issueUrl": "https://www.github.com/formium/tsdx/issues/1064",
+            "issueName": "[tsdx-config] Css module run fail"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/astrit/css.gg",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/astrit/css.gg/issues/74",
+            "issueName": "Figma design issue: Some icon components have a 180degree rotate property"
+          },
+          {
+            "issueUrl": "https://www.github.com/astrit/css.gg/issues/73",
+            "issueName": "TypeScript declaration file missing"
+          },
+          {
+            "issueUrl": "https://www.github.com/astrit/css.gg/issues/72",
+            "issueName": "VK icon (social icon)"
+          },
+          {
+            "issueUrl": "https://www.github.com/astrit/css.gg/issues/69",
+            "issueName": "Icon Request: Linkedin"
+          },
+          {
+            "issueUrl": "https://www.github.com/astrit/css.gg/issues/68",
+            "issueName": "Icon Request: Guilded"
+          },
+          {
+            "issueUrl": "https://www.github.com/astrit/css.gg/issues/66",
+            "issueName": "Website search is case sensitive"
+          },
+          {
+            "issueUrl": "https://www.github.com/astrit/css.gg/issues/64",
+            "issueName": "Testing with Jest"
+          },
+          {
+            "issueUrl": "https://www.github.com/astrit/css.gg/issues/63",
+            "issueName": "Hexagon shows gaps on outside"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topicUrl": "https://www.github.com/topics/maven",
+    "repos": [
+      {
+        "repoUrl": "https://www.github.com/GoogleContainerTools/jib",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/GoogleContainerTools/jib/issues/3419",
+            "issueName": "Consider publishing Jib CLI to SDKMAN"
+          },
+          {
+            "issueUrl": "https://www.github.com/GoogleContainerTools/jib/issues/3416",
+            "issueName": "Cannot upgrade Google HTTP libraries"
+          },
+          {
+            "issueUrl": "https://www.github.com/GoogleContainerTools/jib/issues/3399",
+            "issueName": "jib maven plugin build fails sometime with PATCH 404 not found"
+          },
+          {
+            "issueUrl": "https://www.github.com/GoogleContainerTools/jib/issues/3373",
+            "issueName": "Publish jib-cli.jar to maven central"
+          },
+          {
+            "issueUrl": "https://www.github.com/GoogleContainerTools/jib/issues/3359",
+            "issueName": "Eliminate ErrorProne warnings"
+          },
+          {
+            "issueUrl": "https://www.github.com/GoogleContainerTools/jib/issues/3356",
+            "issueName": "Cannot find JAR in outputDirectory path when using spring-boot-maven-plugin"
+          },
+          {
+            "issueUrl": "https://www.github.com/GoogleContainerTools/jib/issues/3348",
+            "issueName": "Broken pipe check not portable (i18n)"
+          },
+          {
+            "issueUrl": "https://www.github.com/GoogleContainerTools/jib/issues/3347",
+            "issueName": "jibDockerBuild build randomly fails in multi-project setup with parrallel flag"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/bytedeco/javacv",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/bytedeco/javacv/issues/1693",
+            "issueName": "ffmpegframerecorder.record() is taking long(sometimes 3-4s per frame)  on android device"
+          },
+          {
+            "issueUrl": "https://www.github.com/bytedeco/javacv/issues/1692",
+            "issueName": "How can javacv open the camera in Android？"
+          },
+          {
+            "issueUrl": "https://www.github.com/bytedeco/javacv/issues/1691",
+            "issueName": "getCudaEnabledDeviceCount error"
+          },
+          {
+            "issueUrl": "https://www.github.com/bytedeco/javacv/issues/1689",
+            "issueName": "Very High Latency with FFmpegFrameGrabber.setVideoFrameNumber(lastFrame)"
+          },
+          {
+            "issueUrl": "https://www.github.com/bytedeco/javacv/issues/1685",
+            "issueName": "Blocking Hibernate"
+          },
+          {
+            "issueUrl": "https://www.github.com/bytedeco/javacv/issues/1683",
+            "issueName": "Could not open input (mp4)"
+          },
+          {
+            "issueUrl": "https://www.github.com/bytedeco/javacv/issues/1680",
+            "issueName": "V1.5.6 FFmpegFrameGrabber could not grab frames: avcodec_receive_frame() error -1094995529: Error during video decoding"
+          },
+          {
+            "issueUrl": "https://www.github.com/bytedeco/javacv/issues/1679",
+            "issueName": "V1.5.6 FFmpegFrameGrabber could not grab frames: avcodec_send_packet() error -1094995529"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/zhanglei-workspace/shopping-management-system",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/zhanglei-workspace/shopping-management-system/issues/33",
+            "issueName": "请教"
+          },
+          {
+            "issueUrl": "https://www.github.com/zhanglei-workspace/shopping-management-system/issues/32",
+            "issueName": "0#基础项目中，GoodPage中的query方法，这一部分是不是还有没有重构……"
+          },
+          {
+            "issueUrl": "https://www.github.com/zhanglei-workspace/shopping-management-system/issues/25",
+            "issueName": "运行最新手的那个项目时，当向数据库中添加数据时，报错了，好像是链接不到数据库"
+          },
+          {
+            "issueUrl": "https://www.github.com/zhanglei-workspace/shopping-management-system/issues/24",
+            "issueName": "一个注释也没有。。"
+          },
+          {
+            "issueUrl": "https://www.github.com/zhanglei-workspace/shopping-management-system/issues/22",
+            "issueName": "sql文件执行报错"
+          },
+          {
+            "issueUrl": "https://www.github.com/zhanglei-workspace/shopping-management-system/issues/21",
+            "issueName": "文件丢失严重"
+          },
+          {
+            "issueUrl": "https://www.github.com/zhanglei-workspace/shopping-management-system/issues/20",
+            "issueName": "从哪拷贝的项目....."
+          },
+          {
+            "issueUrl": "https://www.github.com/zhanglei-workspace/shopping-management-system/issues/19",
+            "issueName": "为什么没有lib包"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/java-aodeng/hope-boot",
+        "issues": []
+      },
+      {
+        "repoUrl": "https://www.github.com/Kotlin/kotlin-examples",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/Kotlin/kotlin-examples/issues/142",
+            "issueName": "cinterop, KMM and iOS binary framework (.xcframework)"
+          },
+          {
+            "issueUrl": "https://www.github.com/Kotlin/kotlin-examples/issues/141",
+            "issueName": "class java.lang.Class<kotlin.collections.Arrayskt>: java.lang.NoClassDefFoundError"
+          },
+          {
+            "issueUrl": "https://www.github.com/Kotlin/kotlin-examples/issues/139",
+            "issueName": "Publish docs for dokka examples"
+          },
+          {
+            "issueUrl": "https://www.github.com/Kotlin/kotlin-examples/issues/136",
+            "issueName": "Is there a process to upgrade dependencies?"
+          },
+          {
+            "issueUrl": "https://www.github.com/Kotlin/kotlin-examples/issues/134",
+            "issueName": "Is there any way to skip delays and execute an ongoing Job"
+          },
+          {
+            "issueUrl": "https://www.github.com/Kotlin/kotlin-examples/issues/124",
+            "issueName": "Incremental annotation processor example?"
+          },
+          {
+            "issueUrl": "https://www.github.com/Kotlin/kotlin-examples/issues/123",
+            "issueName": "Unable to implement @WebFilter"
+          },
+          {
+            "issueUrl": "https://www.github.com/Kotlin/kotlin-examples/issues/122",
+            "issueName": " Creating a primitive array produce OutOfMemoryError"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/apache/maven",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/apache/maven/pull/540",
+            "issueName": "[MNG-7045] Drop CDI API from Maven"
+          },
+          {
+            "issueUrl": "https://www.github.com/apache/maven/pull/532",
+            "issueName": "[MNG-7235] Speed improvements when calculating the sorted project graph"
+          },
+          {
+            "issueUrl": "https://www.github.com/apache/maven/pull/530",
+            "issueName": "[MNG-7235] Speed improvements when calculating the sorted project graph"
+          },
+          {
+            "issueUrl": "https://www.github.com/apache/maven/pull/529",
+            "issueName": "added an \"ignore\" option for checksumPolicy in documents"
+          },
+          {
+            "issueUrl": "https://www.github.com/apache/maven/pull/521",
+            "issueName": "prefer use of InheritableThreadLocal to fix possible issue when mojo start a thread and try to access some artifacts"
+          },
+          {
+            "issueUrl": "https://www.github.com/apache/maven/pull/517",
+            "issueName": "Collapse mvnDebug into mvn"
+          },
+          {
+            "issueUrl": "https://www.github.com/apache/maven/pull/515",
+            "issueName": "[MNG-7075] mvnDebug should only enter debug mode if not an informative or encryption switch has been passed"
+          },
+          {
+            "issueUrl": "https://www.github.com/apache/maven/pull/509",
+            "issueName": "[MNG-7046] Revert MNG-5639 and make repo config static only"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/spotify/docker-maven-plugin",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/spotify/docker-maven-plugin/issues/452",
+            "issueName": "gitlab ci not execute deploy with docker maven plugin"
+          },
+          {
+            "issueUrl": "https://www.github.com/spotify/docker-maven-plugin/issues/451",
+            "issueName": "How to building Docker Image in Maven Project of multi-module"
+          },
+          {
+            "issueUrl": "https://www.github.com/spotify/docker-maven-plugin/issues/450",
+            "issueName": "Remote DOCKER_HOST configuration does not work with ssh protocol"
+          },
+          {
+            "issueUrl": "https://www.github.com/spotify/docker-maven-plugin/issues/282",
+            "issueName": "Allow using COPY instead of ADD on resource include"
+          },
+          {
+            "issueUrl": "https://www.github.com/spotify/docker-maven-plugin/issues/247",
+            "issueName": "Special characters in filenames are not escaped"
+          },
+          {
+            "issueUrl": "https://www.github.com/spotify/docker-maven-plugin/issues/238",
+            "issueName": "Can some one provide a working example for building images in dockerhub using this plugin to deploy war on tomact"
+          },
+          {
+            "issueUrl": "https://www.github.com/spotify/docker-maven-plugin/issues/212",
+            "issueName": "Replace empty envs with \"\" and not \"null\""
+          },
+          {
+            "issueUrl": "https://www.github.com/spotify/docker-maven-plugin/issues/206",
+            "issueName": "User could be warned if an illegal image name is specified"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/rubenlagus/TelegramBots",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/rubenlagus/TelegramBots/issues/965",
+            "issueName": "message.hasPhoto()  never be true"
+          },
+          {
+            "issueUrl": "https://www.github.com/rubenlagus/TelegramBots/issues/963",
+            "issueName": "Telegram bot"
+          },
+          {
+            "issueUrl": "https://www.github.com/rubenlagus/TelegramBots/issues/962",
+            "issueName": "Abilitybot - Channel post doesn't trigger default ability"
+          },
+          {
+            "issueUrl": "https://www.github.com/rubenlagus/TelegramBots/issues/961",
+            "issueName": "Good "
+          },
+          {
+            "issueUrl": "https://www.github.com/rubenlagus/TelegramBots/issues/960",
+            "issueName": "Abilitybot - File as reply to message doesn't trigger default ability."
+          },
+          {
+            "issueUrl": "https://www.github.com/rubenlagus/TelegramBots/issues/956",
+            "issueName": "Auto-Shop bot for telegram"
+          },
+          {
+            "issueUrl": "https://www.github.com/rubenlagus/TelegramBots/issues/955",
+            "issueName": "does new updates handle in different threads ?"
+          },
+          {
+            "issueUrl": "https://www.github.com/rubenlagus/TelegramBots/issues/951",
+            "issueName": "[Suggest] \"Registerabilities\" should not only look at the return type of the method."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topicUrl": "https://www.github.com/topics/objective-c",
+    "repos": [
+      {
+        "repoUrl": "https://www.github.com/vsouza/awesome-ios",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/vsouza/awesome-ios/issues/3019",
+            "issueName": "The Poly project is archived"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/dkhamsing/open-source-ios-apps",
+        "issues": []
+      },
+      {
+        "repoUrl": "https://www.github.com/serhii-londar/open-source-mac-os-apps",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/serhii-londar/open-source-mac-os-apps/issues/678",
+            "issueName": "sequel pro abandoned and replaced by sequel ace"
+          },
+          {
+            "issueUrl": "https://www.github.com/serhii-londar/open-source-mac-os-apps/issues/677",
+            "issueName": "Suggestion:  Gramps Genealogy program - Python ( cross platform)"
+          },
+          {
+            "issueUrl": "https://www.github.com/serhii-londar/open-source-mac-os-apps/issues/676",
+            "issueName": "Clementine hasn't been updated for make in five years. "
+          },
+          {
+            "issueUrl": "https://www.github.com/serhii-londar/open-source-mac-os-apps/issues/675",
+            "issueName": "Please include Ferdi as an alternative to Franz"
+          },
+          {
+            "issueUrl": "https://www.github.com/serhii-londar/open-source-mac-os-apps/issues/659",
+            "issueName": "Contains old and even malware"
+          },
+          {
+            "issueUrl": "https://www.github.com/serhii-londar/open-source-mac-os-apps/issues/637",
+            "issueName": "Suggested app: Monitor Bar"
+          },
+          {
+            "issueUrl": "https://www.github.com/serhii-londar/open-source-mac-os-apps/issues/635",
+            "issueName": "Icons need more dpi."
+          },
+          {
+            "issueUrl": "https://www.github.com/serhii-londar/open-source-mac-os-apps/issues/633",
+            "issueName": "Icons for shell & applescript aren't displayed"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/SDWebImage/SDWebImage",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/SDWebImage/SDWebImage/issues/3271",
+            "issueName": "Error \"SDImageAWebPCoder only available on iOS 14.0 or higher\""
+          },
+          {
+            "issueUrl": "https://www.github.com/SDWebImage/SDWebImage/issues/3270",
+            "issueName": "SDImageIOAnimatedCoder Crash, but I don't know why"
+          },
+          {
+            "issueUrl": "https://www.github.com/SDWebImage/SDWebImage/issues/3268",
+            "issueName": "UITableVIewCell inside UICollectionView cell images over lapping randomly "
+          },
+          {
+            "issueUrl": "https://www.github.com/SDWebImage/SDWebImage/issues/3266",
+            "issueName": "Does SDWebImage support Cache-Control and Content-Encoding headers ? "
+          },
+          {
+            "issueUrl": "https://www.github.com/SDWebImage/SDWebImage/issues/3264",
+            "issueName": "Crashed when using context in swift"
+          },
+          {
+            "issueUrl": "https://www.github.com/SDWebImage/SDWebImage/issues/3263",
+            "issueName": "Crash in SDAnimatedWebImageView on iOS - image apng type"
+          },
+          {
+            "issueUrl": "https://www.github.com/SDWebImage/SDWebImage/issues/3261",
+            "issueName": "RED "
+          },
+          {
+            "issueUrl": "https://www.github.com/SDWebImage/SDWebImage/issues/3257",
+            "issueName": "Obscure crash dispatch_group_leave.cold"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/hackiftekhar/IQKeyboardManager",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/hackiftekhar/IQKeyboardManager/issues/1831",
+            "issueName": "Prevent other Views from moving up with keyboard"
+          },
+          {
+            "issueUrl": "https://www.github.com/hackiftekhar/IQKeyboardManager/issues/1830",
+            "issueName": "iOS 15 Next/Prev Issue"
+          },
+          {
+            "issueUrl": "https://www.github.com/hackiftekhar/IQKeyboardManager/issues/1829",
+            "issueName": "Multiple UITextfields in ScrollView have a scrolling offset mistake."
+          },
+          {
+            "issueUrl": "https://www.github.com/hackiftekhar/IQKeyboardManager/issues/1828",
+            "issueName": "Bug in arrow"
+          },
+          {
+            "issueUrl": "https://www.github.com/hackiftekhar/IQKeyboardManager/issues/1826",
+            "issueName": "Previous and Next arrows disabled"
+          },
+          {
+            "issueUrl": "https://www.github.com/hackiftekhar/IQKeyboardManager/issues/1825",
+            "issueName": "framework not building"
+          },
+          {
+            "issueUrl": "https://www.github.com/hackiftekhar/IQKeyboardManager/issues/1824",
+            "issueName": "'shared' is unavailable: not available on iOS (App Extension) on Xcode 13 beta 3"
+          },
+          {
+            "issueUrl": "https://www.github.com/hackiftekhar/IQKeyboardManager/issues/1822",
+            "issueName": "accessibilityLabel is not working in XCUITest Cases (test cases) (accessibilityIdentifier)"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/realm/realm-cocoa",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/realm/realm-cocoa/issues/7439",
+            "issueName": "Assertion failed: currentProperty"
+          },
+          {
+            "issueUrl": "https://www.github.com/realm/realm-cocoa/issues/7438",
+            "issueName": "Crash on launch: Keychain returned unexpected status code: -25295"
+          },
+          {
+            "issueUrl": "https://www.github.com/realm/realm-cocoa/issues/7437",
+            "issueName": "Crash after migrating schema AND library version"
+          },
+          {
+            "issueUrl": "https://www.github.com/realm/realm-cocoa/issues/7436",
+            "issueName": "Unable to recover from RLMException  'Number of active versions...'"
+          },
+          {
+            "issueUrl": "https://www.github.com/realm/realm-cocoa/issues/7435",
+            "issueName": "Can't set object of type 'Skin' to property of type 'Skin'"
+          },
+          {
+            "issueUrl": "https://www.github.com/realm/realm-cocoa/issues/7430",
+            "issueName": "Crash when trying to store data"
+          },
+          {
+            "issueUrl": "https://www.github.com/realm/realm-cocoa/issues/7423",
+            "issueName": "Implement Custom Type Mappings"
+          },
+          {
+            "issueUrl": "https://www.github.com/realm/realm-cocoa/issues/7417",
+            "issueName": "Some users have Fatal Exception: realm::NoSuchTable"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/CoderMJLee/MJRefresh",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/CoderMJLee/MJRefresh/issues/1542",
+            "issueName": "添加了tableViewHeader崩溃"
+          },
+          {
+            "issueUrl": "https://www.github.com/CoderMJLee/MJRefresh/issues/1540",
+            "issueName": "当使用全屏collectionviewcell,并开启pagingEnabled为yes,MJRefreshBackStateFooter 上拉刷新结束后偏移,拉的越多,偏移越多"
+          },
+          {
+            "issueUrl": "https://www.github.com/CoderMJLee/MJRefresh/issues/1537",
+            "issueName": "我这边在不停刷新mj_header的时候，UITableView的contentOffset.y不能正常还原到0，UITableView头部有一大片的空白"
+          },
+          {
+            "issueUrl": "https://www.github.com/CoderMJLee/MJRefresh/issues/1535",
+            "issueName": "iPhone11上上拉加载不调用，iPhone6s上正常"
+          },
+          {
+            "issueUrl": "https://www.github.com/CoderMJLee/MJRefresh/issues/1523",
+            "issueName": "UICollectionView开启mj_header的isCollectionViewAnimationBug，下拉刷新后底部的item会闪烁"
+          },
+          {
+            "issueUrl": "https://www.github.com/CoderMJLee/MJRefresh/issues/1507",
+            "issueName": "当 Tabbleview 在 PlainStyle 下，并且设置了 SectionHeader，这时用 MJRefreshBackNormalFooter 上拉，结束刷新时会跳动"
+          },
+          {
+            "issueUrl": "https://www.github.com/CoderMJLee/MJRefresh/issues/1506",
+            "issueName": "collectionview大幅度上拉加载cell下坠动画很奇怪"
+          },
+          {
+            "issueUrl": "https://www.github.com/CoderMJLee/MJRefresh/issues/1488",
+            "issueName": "浮点数的误差，导致上拉刷新代码不执行"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/CocoaPods/CocoaPods",
+        "issues": [
+          {
+            "issueUrl": "https://www.github.com/CocoaPods/CocoaPods/issues/10946",
+            "issueName": "Code completion of symlink headers failed on Xcode 12.5"
+          },
+          {
+            "issueUrl": "https://www.github.com/CocoaPods/CocoaPods/issues/10939",
+            "issueName": "cocoapods 1.11.0 throws Unicode Normalization not appropriate for ASCII-8BIT on pod install'"
+          },
+          {
+            "issueUrl": "https://www.github.com/CocoaPods/CocoaPods/issues/10938",
+            "issueName": "Use git reference repository when checking out a dependency on git"
+          },
+          {
+            "issueUrl": "https://www.github.com/CocoaPods/CocoaPods/issues/10931",
+            "issueName": "beta versions are fetched instead of RC"
+          },
+          {
+            "issueUrl": "https://www.github.com/CocoaPods/CocoaPods/issues/10898",
+            "issueName": "[suggestion/new feature] avoid generate project/target for precompiled pods"
+          },
+          {
+            "issueUrl": "https://www.github.com/CocoaPods/CocoaPods/issues/10897",
+            "issueName": "Get the installed version of a pod"
+          },
+          {
+            "issueUrl": "https://www.github.com/CocoaPods/CocoaPods/issues/10894",
+            "issueName": "Multiple packages (core+optionals) in a single repository"
+          },
+          {
+            "issueUrl": "https://www.github.com/CocoaPods/CocoaPods/issues/10889",
+            "issueName": "Can I run the script before building resource_bundles?"
+          }
+        ]
+      }
+    ]
+  }
+]

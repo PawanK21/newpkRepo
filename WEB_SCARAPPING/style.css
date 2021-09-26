@@ -1,0 +1,33 @@
+/*.sonu {
+color: red;
+}
+h1 {
+  color:green;
+}
+#unique {
+  color: aqua;
+}
+
+div {
+  height: 200px;
+  width:auto;
+  color: aqua;
+}  
+
+div p span {
+  color: blue;
+}
+div>p>span {
+  color:aqua;
+}*/
+
+.sonu {
+  color: blue;
+}
+
+.monu {
+  color:aqua;
+}
+.sonu.monu {
+  color:rgb(255,0, 200);
+}

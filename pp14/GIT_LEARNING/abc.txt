@@ -1,0 +1,5 @@
+on the basis of your unique key is generated, if your conntent is chaneged so naturally your unique key also changes
+now this unique key can be converted back to the content of your file 
+changes observe -> unique generated -> store
+git uses unique key of that version -> decrypts -> content of file -> show
+it is my abc.txt file i m pusing this on github

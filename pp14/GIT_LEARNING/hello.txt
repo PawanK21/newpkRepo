@@ -1,0 +1,7 @@
+versioin of the fiels are saved who made changes and what 
+.git local repo
+
+i changed hello.txt file, now let us seethe chngegus by writing 
+git status 
+modified -> git add -> staged
+it is hello.txt file i m pusing this file on my github
