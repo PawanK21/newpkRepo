@@ -55,17 +55,16 @@
 // console.log(a);
 
 
-
 // Use of forEach() method:
-let arr = ["a","b","c","d"];
+// let arr = ["a","b","c","d"];
 
 // arr.forEach(function(value, index, array) {
 //   console.log(value, index, array);
 // })
 
-arr.forEach(function(value, index, array) {
-  console.log(value);
-})
+// arr.forEach(function(value, index, array) {
+//   console.log(value);
+// })
 
 // arr.forEach((data, index, array, fourth) => {
 //   console.log(data, index, array, fourth);
@@ -94,6 +93,32 @@ arr.forEach(function(value, index, array) {
 // ****************** 03 August 2021 ****************
 // let arr = [4,5,9,10,14,2,3,20,65,61,60];
 // METHOD: array.map(function(){}): To write any logic on a every value value of the array
+// -> Map is itself a fn
+// -> Map takes as input a callback fn (with v and i)
+// -> Map will call the callback multiple time (once for each value)
+// -> for each run of callback, map will pass v and i to callback
+// -> callback will process the value nad index and return a slingle value
+// -> values returned by each  run of callback will be collected in a new array
+// -> Map return that new array
+// -> ***Map is similer to "$$eval() uses in automationz"
+let arr = [2,5,9,8,15,11,6]
+let sqarr = arr.map(function(v, i) {
+  return v * v;
+})
+console.log(sqarr);
+
+let a = [
+  "Pawan Kumar",
+  "Aryan Malik",
+  "Suresh Kumar",
+  "Pramod Singh",
+  "Keshav Malohtra"
+]
+let na  = a.map(function(v, i) {
+  let sa = v.split(" ");
+  return sa[0][0] + ". " + sa[1][0] + ". ";
+});
+console.log(na);
 // for(let i=0; i<arr.length; i++){
 //   arr[i] += 2;
 // }
